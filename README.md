@@ -1,2 +1,2 @@
-# UAS-ALGORITMA-DAN-PEMROGRAMAN
-Berisi Program kalkulator Mahasiswa &amp; Fungsi Terbilang
+# UAS-ADAM-FAREZKY-RAMADHAN
+Berisi coding matkul Pemrograman WEB dan Algoritma
