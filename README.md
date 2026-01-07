@@ -1,2 +1,2 @@
 # UAS-ADAM-FAREZKY-RAMADHAN
-Berisi coding matkul Pemrograman WEB dan Algoritma
+Berisi code program hitung & konversi nilai mahasiswa dan program fungsi terbilang
